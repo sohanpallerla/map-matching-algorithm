@@ -1,0 +1,5 @@
+type,start_lat,start_lon,end_lat,end_lon
+Highway,17.3850,78.3985,17.3865,78.4000
+Service Road,17.3870,78.4015,17.3880,78.4030
+City Road,17.3895,78.4050,17.3910,78.4075
+Inner Road,17.3925,78.4090,17.3935,78.4105
